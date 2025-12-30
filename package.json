@@ -1,0 +1,12 @@
+{
+  "name": "rom-download-site",
+  "version": "1.0.0",
+  "description": "ROM Download Site",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site ready'"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
