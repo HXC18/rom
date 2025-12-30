@@ -1,0 +1,10 @@
+{
+  "name": "rom-download-site",
+  "version": "1.0.0",
+  "description": "欧加真ROM下载站",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "dev": "echo 'Development server'"
+  },
+  "devDependencies": {}
+}
